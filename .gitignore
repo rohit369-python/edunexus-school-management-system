@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Build / output
+dist/
+.output/
+.tanstack/
+.vite/
+
+# Runtime data
+backend/edunexus.db
+backend/*.db
+backend/*.db-shm
+backend/*.db-wal
+*.log
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Caches & tooling
+backend/.pytest_cache/
+backend/.ruff_cache/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.local
+
+# Optional local overrides
+.grok/app-env.local.json
