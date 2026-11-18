@@ -289,12 +289,15 @@ Interactive docs: `http://127.0.0.1:8000/docs`
 
 ---
 
-## Author
-
-Built by a full-stack Python software developer focused on practical education tooling — clean domain models, honest limitations, and a path from polished demo to real school usage.
-
----
 
 ## License
 
 Add a license of your choice before public redistribution (MIT recommended for open-source sharing). No license file was present in the original source package.
+
+
+## Author
+
+**Rohit Kumar**
+
+Computer Science Engineering Student
+Full Stack Python Developer
